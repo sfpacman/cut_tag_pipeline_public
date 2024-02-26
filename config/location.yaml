@@ -1,0 +1,6 @@
+---
+main_script_dir: ${projectDir}/script/main
+qc_script_dir: ${projectDir}/script/post_processing
+organize_script_dir: ${projectDir}/script/post_processing
+ref_dir:${projectDir}/ref
+debug_test_dir: ${projectDir}/debug/

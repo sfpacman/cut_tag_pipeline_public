@@ -1,0 +1,9 @@
+---
+main_script_dir: ${projectDir}/script/main
+qc_script_dir: ${projectDir}/script/post_processing
+organize_script_dir: ${projectDir}/script/post_processing
+ref_dir: ${projectDir}/ref
+debug_test_dir: ${projectDir}/debug/
+alignment_folder: ${out_dir}/alignment/bam
+bed_folder: ${out_dir}/alignment/bed
+peak_folder: ${out_dir}/peak_calling

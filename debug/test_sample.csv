@@ -1,0 +1,4 @@
+sample_name,sample_group_name,fastq_1,fastq_2,rep,peak_caller
+sample1_1,sample1,debug/data/fastq_1.gz,debug/data/fastq_2.gz,1,MACS2
+sample1_2,sample1,debug/data/fastq_3.gz,debug/data/fastq_4.gz,2,MACS2
+sample1_3,sample2,debug/data/fastq_4.gz,debug/data/fastq_5.gz,1,SEACR
